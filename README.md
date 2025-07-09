@@ -18,7 +18,8 @@ The best way to get started is to run the following:
 ```
 git clone --recurse-submodules https://github.com/avstack-lab/avdev-sandbox/
 cd avdev-sandbox
-uv install  # to install the dependencies
+uv install  # to install the dependencies, OR uv pip install -e . 
+
 ```
 
 ### Execute Basic Tests
